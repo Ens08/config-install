@@ -25,7 +25,7 @@ echo "======================================="
 apt install -y \
     build-essential gcc g++ make cmake ninja-build \
     autoconf automake flex bison pkg-config libssl-dev \
-    gdb valgrind strace ltrace perf \
+    gdb valgrind strace ltrace \
     htop atop iotop sysstat \
     tcpdump nmap net-tools iproute2 socat lsof \
     git curl wget vim neovim tmux screen \
